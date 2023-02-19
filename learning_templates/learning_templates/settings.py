@@ -28,7 +28,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['13akash12.pythonanywhere.com']
 
-
 # Application definition
 
 INSTALLED_APPS = [
